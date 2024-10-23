@@ -11,7 +11,7 @@
     "minilm": {
       "sourceModel": "sentence-transformers/all-MiniLM-L6-v2",
       "provider": "hugging-face",
-      "host": "hypermode"
+      "connection": "hypermode"
     }
   },
   "collections": {
